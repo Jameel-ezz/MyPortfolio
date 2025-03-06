@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.49e099ba.css",
-    "main.js": "/static/js/main.643fad1b.js",
+    "main.js": "/static/js/main.08f9e69d.js",
     "static/js/787.47af9b6a.chunk.js": "/static/js/787.47af9b6a.chunk.js",
     "static/media/Certification2.pdf": "/static/media/Certification2.db0a80b9a765ef8519ca.pdf",
     "static/media/JAF-Web.png": "/static/media/JAF-Web.160db34a520b869be01e.png",
@@ -11,12 +11,16 @@
     "static/media/Recommendation2.jpg": "/static/media/Recommendation2.20c5129baecac276075e.jpg",
     "static/media/Recommendation4.jpg": "/static/media/Recommendation4.8ebfe21ee0f34cad80b7.jpg",
     "static/media/Recommendation3.jpg": "/static/media/Recommendation3.eef048ec7e7a7a5c8aac.jpg",
+    "static/media/Certification13.jpg": "/static/media/Certification13.abfac1241c424052a9aa.jpg",
     "static/media/Certification11.jpg": "/static/media/Certification11.3b13c36f34379c26342d.jpg",
     "static/media/Recommendation1.pdf": "/static/media/Recommendation1.69e6c78348aa08199334.pdf",
     "static/media/Certification10.jpg": "/static/media/Certification10.000b4adcd69265f720b5.jpg",
     "static/media/Certification11.pdf": "/static/media/Certification11.bf72e987e81c5ea572de.pdf",
     "static/media/Certification12.pdf": "/static/media/Certification12.6be5f99d10aff3feec24.pdf",
+    "static/media/Certification13.pdf": "/static/media/Certification13.38abdfc7bfabfca9a0dc.pdf",
     "static/media/Certification10.pdf": "/static/media/Certification10.7e848ecad106d52140cd.pdf",
+    "static/media/Certification15.jpg": "/static/media/Certification15.cce7d90a6caf366c09ab.jpg",
+    "static/media/Certification14.jpg": "/static/media/Certification14.b58001683842a3c70718.jpg",
     "static/media/Sky.PNG": "/static/media/Sky.7a4a91196cd945792ae4.PNG",
     "static/media/3DNavBar.PNG": "/static/media/3DNavBar.e424daad5937d73e90b2.PNG",
     "static/media/Certification8.pdf": "/static/media/Certification8.26a394ef9a19185b5c1e.pdf",
@@ -31,11 +35,13 @@
     "static/media/Watch.PNG": "/static/media/Watch.1f637e053088ca894dd5.PNG",
     "static/media/Certification4.JPG": "/static/media/Certification4.bdc49f0cd6daa1ad60a2.JPG",
     "static/media/Recommendation4.pdf": "/static/media/Recommendation4.e00eafd4081af56d94d0.pdf",
-    "static/media/JameelAbdulmalek.pdf": "/static/media/JameelAbdulmalek.af2961ebea42a7dbb25c.pdf",
+    "static/media/JameelAbdulmalek.pdf": "/static/media/JameelAbdulmalek.99f9a08d9df0fc48d5fc.pdf",
     "static/media/Recommendation3.pdf": "/static/media/Recommendation3.0482aabd86879f2640e5.pdf",
     "static/media/Reference-Style-Modifier.png": "/static/media/Reference-Style-Modifier.5f6bdc67d97bb82b9cdb.png",
     "static/media/Certification5.pdf": "/static/media/Certification5.3836e0d9353dc463575d.pdf",
     "static/media/Certification6.pdf": "/static/media/Certification6.27a443ce16016002ad46.pdf",
+    "static/media/Certification14.pdf": "/static/media/Certification14.4fc73d7a35169eda5abe.pdf",
+    "static/media/Certification15.pdf": "/static/media/Certification15.06baf51169c775f9e926.pdf",
     "static/media/Certification4.pdf": "/static/media/Certification4.123e13e1be2528ce8545.pdf",
     "static/media/Certification7.pdf": "/static/media/Certification7.b0b8314de37b46482c44.pdf",
     "static/media/HappyNewYear2024.PNG": "/static/media/HappyNewYear2024.d851e607337732cf5f21.PNG",
@@ -51,11 +57,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.49e099ba.css.map": "/static/css/main.49e099ba.css.map",
-    "main.643fad1b.js.map": "/static/js/main.643fad1b.js.map",
+    "main.08f9e69d.js.map": "/static/js/main.08f9e69d.js.map",
     "787.47af9b6a.chunk.js.map": "/static/js/787.47af9b6a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49e099ba.css",
-    "static/js/main.643fad1b.js"
+    "static/js/main.08f9e69d.js"
   ]
 }
