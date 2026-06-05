@@ -4,49 +4,72 @@ import {
   DiJavascript1,
   DiReact,
   DiPython,
-  DiJava,
   DiNodejs,
 } from "react-icons/di";
+
 import {
-  SiFirebase,
-  SiArduino, 
   SiHtml5,
   SiCss3,
+  SiLinux,
+  SiDocker,
+  SiGithub,
+  SiCisco,
 } from "react-icons/si";
-import { FaC } from "react-icons/fa6";
+
+import { FaNetworkWired, FaServer } from "react-icons/fa";
+
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
+
+      <Col xs={4} md={2} className="tech-icons" title="JavaScript">
         <DiJavascript1 />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiHtml5 />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <FaC />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiCss3 />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiArduino />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
+
+      <Col xs={4} md={2} className="tech-icons" title="React.js">
         <DiReact />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
+
+      <Col xs={4} md={2} className="tech-icons" title="Node.js">
+        <DiNodejs />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+
+      <Col xs={4} md={2} className="tech-icons" title="Python">
         <DiPython />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
+
+      <Col xs={4} md={2} className="tech-icons" title="HTML5">
+        <SiHtml5 />
       </Col>
+
+      <Col xs={4} md={2} className="tech-icons" title="CSS3">
+        <SiCss3 />
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons" title="Networking">
+        <FaNetworkWired />
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons" title="Cisco Networking">
+        <SiCisco />
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons" title="Linux Systems">
+        <SiLinux />
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons" title="Servers / Infrastructure">
+        <FaServer />
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons" title="Docker (Containers)">
+        <SiDocker />
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons" title="GitHub (Version Control)">
+        <SiGithub />
+      </Col>
+
     </Row>
   );
 }

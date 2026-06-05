@@ -1,11 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import {
-  AiFillGithub,
-  AiFillInstagram,
-} from "react-icons/ai";
+import {AiFillGithub} from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import { FaXTwitter } from "react-icons/fa6";
+import { IoMdMailUnread } from "react-icons/io";
+import { PiPhoneCallFill } from "react-icons/pi";
+
 function Footer() {
   return (
     <Container fluid className="footer">
@@ -14,7 +13,7 @@ function Footer() {
           <h3>There are no Limits, Only Possibilities.</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>JAF Team</h3>
+          <h3>Copyright © 2026   Jameel Abdulmalek - All Rights Reserved.</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -30,12 +29,12 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://x.com/jameel_ezz?t=wHDFiO5QwiQMBNYaNwKVPA&s=08"
+                href="mailto:jameel.abdulmalek@gmail.com"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <FaXTwitter />
+                <IoMdMailUnread />
               </a>
             </li>
             <li className="social-icons">
@@ -50,12 +49,12 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/jameel_ezz?igsh=MXh4eXVpdWNwdWE4bQ=="
+                href="tel:+966507360274"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <AiFillInstagram />
+                < PiPhoneCallFill />
               </a>
             </li>
           </ul>

@@ -15,11 +15,17 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          Take a Look on My <strong className="purple">Projects </strong>
-        </h1>
-        <p style={{ color: "white" }}>
-          Here are a few projects I've worked on.
-        </p>
+    My <strong className="purple">Projects</strong>
+  </h1>
+
+  <p style={{ color: "white", marginTop: "10px" }}>
+    A mix of academic and early-stage software development projects that built
+    my foundation in programming, problem solving, and software engineering.
+  </p>
+
+  <p style={{ color: "#c770f0", fontSize: "14px", marginTop: "5px" }}>
+    Note: These projects reflect my earlier software development experience.
+  </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard

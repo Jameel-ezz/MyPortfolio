@@ -90,15 +90,6 @@ function NavBar() {
             </Nav.Item>
 
             { }
-            <Nav.Item>
-              <Nav.Link
-                as={Link}
-                to="/Tricks"
-                onClick={() => updateExpanded(false)}
-              >
-                <FaCss3Alt style={{ marginBottom: "2px" }} /> HTML & CSS Tricks
-              </Nav.Link>
-            </Nav.Item>
 
             <Nav.Item>
               <Nav.Link

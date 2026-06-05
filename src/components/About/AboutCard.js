@@ -11,19 +11,24 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Jameel Abdulmalek </span>
             from <span className="purple"> Palestine, Jaffa.</span>
             <br />
-            I am currently a new graduate student in computer engineering, passionate to learn and be part of the tech world!
+            I am a <span className="purple">Project Engineer</span> with a
+            background in Computer Engineering and hands-on experience in IT
+            infrastructure, networking, cybersecurity, and low-current systems.
             <br />
-            I successfully completed my academic journey with honor degree at Antalya Bilim University in Antalya, Turkey.
+            Currently, I work at Hi Tech IT Services Company, where I manage
+            technical projects, prepare solutions and proposals, support business
+            development activities, and work closely with clients to deliver
+            reliable IT and security solutions.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Photography
+              <ImPointRight /> Exploring New Technologies
             </li>
             <li className="about-activity">
-              <ImPointRight /> Reading and Writing Books
+              <ImPointRight /> Fitness & Gym Training
             </li>
           </ul>
         </blockquote>
@@ -31,5 +36,4 @@ function AboutCard() {
     </Card>
   );
 }
-
 export default AboutCard;
